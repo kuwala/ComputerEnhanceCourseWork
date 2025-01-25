@@ -1,7 +1,7 @@
 # Computer Enhance Course Work readme.md
 
 ## Log
-commit `2c60315` is for listing 37 and 37.
+commit `2c60315` is for listing 37 and 37. ~ 01/23/25
 ```md
 mov Instruction Decoder
 
@@ -27,6 +27,8 @@ MOV AL, BL
 
 ## the 8086 manual
 8086 manual : https://edge.edx.org/c4x/BITSPilani/EEE231/asset/8086_family_Users_Manual_1_.pdf
+Better version of manual (searchable) : https://archive.org/details/bitsavers_intel80869lyUsersManualOct79_62967963
+Other related good manuals : https://archive.org/details/bitsavers_intel?page=2
 
 To test it you can run nasm on the output and the run the binary from nasm through
 the code again and see if any of the data/text in the files change.
